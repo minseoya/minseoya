@@ -24,8 +24,10 @@
 
 🌱 I’m currently learning ...
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thornewater&layout=compact&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseoya&layout=compact&theme=radical&show_icons=true)
 <br>
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2049%20mins-blue)
