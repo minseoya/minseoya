@@ -22,11 +22,20 @@
 > Github : [Github](https://github.com/minseoya "Github!1")
 
 
+🌱 I’m currently learning ...
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thornewater&layout=compact&theme=radical&show_icons=true)
+<br>
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2049%20mins-blue)
 
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2025%20mins-blue)
+
+
+
 
 **저는 아침형 인간이에요. 🐤** 
 
