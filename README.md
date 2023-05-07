@@ -28,19 +28,16 @@
 > 
 > Github : [Github](https://github.com/minseoya "Github!1")
 
-
-<h5 align="center">💡 My Git Stats 💡</h5>
-<p align="center">
-  <a href="https://github.com/minseoya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=nord" />
-  </a>
-</p>
-
-
 <br>
-🌱 I’m currently learning ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseoya&layout=compact&theme=radical&show_icons=true)
+<div align="center">
+   <p display="inline">
+    <a href="https://github.com/minseoya">
+     <img height="180" src="https://github-readme-stats.vercel.app/api?username=minseoya&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=omni" />
+     <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseoya&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=omni&hide=none" />
+    </a>
+  </p>
+
 
 <br>
 
