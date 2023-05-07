@@ -15,7 +15,11 @@
 
 🏷 Contact Me<br /><br />
 
-
+> Email : <minseea5191@gmail.com>
+> 
+> Blog : [MyBlog](https://just-process.tistory.com/ "MYBolg")
+> 
+> Github : [Github](https://github.com/minseoya "Github!1")
 
 
   <!--START_SECTION:waka-->
