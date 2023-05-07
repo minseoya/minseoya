@@ -36,6 +36,19 @@
 <br>
 
 
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/minseoya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suny0ung&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=nord&hide=none" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/minseoya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=suny0ung&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=nord" />
+  </a>
+</p>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2049%20mins-blue)
